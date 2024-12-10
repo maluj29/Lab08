@@ -1,0 +1,5 @@
+C:/Users/Aluno/Documents/sistema micro mlj/Lab08/TIM10ORTOS/CMakeFiles/TIM10ORTOS.dir
+C:/Users/Aluno/Documents/sistema micro mlj/Lab08/TIM10ORTOS/CMakeFiles/edit_cache.dir
+C:/Users/Aluno/Documents/sistema micro mlj/Lab08/TIM10ORTOS/CMakeFiles/rebuild_cache.dir
+C:/Users/Aluno/Documents/sistema micro mlj/Lab08/TIM10ORTOS/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+C:/Users/Aluno/Documents/sistema micro mlj/Lab08/TIM10ORTOS/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir
